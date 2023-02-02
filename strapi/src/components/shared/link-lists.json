@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_shared_link_lists",
+  "info": {
+    "displayName": "LinkList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.link"
+    },
+    "titleUrl": {
+      "type": "string"
+    },
+    "pageLinks": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::page.page"
+    }
+  }
+}
