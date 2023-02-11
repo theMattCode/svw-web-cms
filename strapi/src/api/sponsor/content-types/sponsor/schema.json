@@ -27,6 +27,15 @@
     "active": {
       "type": "boolean",
       "default": true
+    },
+    "level": {
+      "type": "enumeration",
+      "enum": [
+        "Platinum",
+        "Gold",
+        "Silver",
+        "Bronze"
+      ]
     }
   }
 }
