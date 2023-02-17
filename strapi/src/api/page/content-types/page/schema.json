@@ -45,7 +45,8 @@
         "shared.spacing",
         "block.tagged-persons",
         "block.persons",
-        "block.articles"
+        "block.articles",
+        "shared.fussball-de-widget"
       ]
     },
     "leftContents": {
@@ -54,7 +55,9 @@
         "block.rich-text",
         "shared.spacing",
         "block.persons",
-        "block.tagged-persons"
+        "block.tagged-persons",
+        "block.articles",
+        "shared.fussball-de-widget"
       ]
     },
     "rightContents": {
@@ -63,14 +66,27 @@
         "block.rich-text",
         "shared.spacing",
         "block.persons",
-        "block.tagged-persons"
+        "block.tagged-persons",
+        "block.articles",
+        "shared.fussball-de-widget"
       ]
     },
     "headerContents": {
       "type": "dynamiczone",
       "components": [
-        "block.sub-page-navigation",
         "block.carousel"
+      ]
+    },
+    "megaMenuContents": {
+      "type": "dynamiczone",
+      "components": [
+        "block.articles",
+        "block.persons",
+        "block.rich-text",
+        "block.tagged-persons",
+        "shared.link-lists",
+        "shared.spacing",
+        "shared.fussball-de-widget"
       ]
     }
   }

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_fussball_de_widgets",
+  "info": {
+    "displayName": "FussballDeWidget",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string",
+      "required": true,
+      "unique": false
+    }
+  }
+}

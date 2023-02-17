@@ -28,15 +28,19 @@
       "default": false
     },
     "icon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
     },
     "isDownload": {
       "type": "boolean",
       "default": false
+    },
+    "description": {
+      "type": "string"
     }
   }
 }
