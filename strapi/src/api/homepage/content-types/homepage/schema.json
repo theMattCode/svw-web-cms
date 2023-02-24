@@ -32,11 +32,6 @@
       "repeatable": true,
       "component": "shared.social-media"
     },
-    "footer": {
-      "type": "component",
-      "repeatable": false,
-      "component": "global.footer"
-    },
     "logo": {
       "type": "media",
       "multiple": false,
