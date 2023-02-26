@@ -21,6 +21,11 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::page.page"
+    },
+    "shopLinks": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::shop.shop"
     }
   }
 }

@@ -21,9 +21,13 @@
       "components": [
         "shared.link-lists",
         "shared.link",
-        "block.rich-text",
-        "shared.social-media"
+        "block.rich-text"
       ]
+    },
+    "socialMediaLinks": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::social-media.social-media"
     }
   }
 }

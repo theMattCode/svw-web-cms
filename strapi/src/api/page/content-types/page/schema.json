@@ -76,18 +76,6 @@
       "components": [
         "block.carousel"
       ]
-    },
-    "megaMenuContents": {
-      "type": "dynamiczone",
-      "components": [
-        "block.articles",
-        "block.persons",
-        "block.rich-text",
-        "block.tagged-persons",
-        "shared.link-lists",
-        "shared.spacing",
-        "shared.fussball-de-widget"
-      ]
     }
   }
 }
