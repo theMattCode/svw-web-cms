@@ -46,7 +46,8 @@
         "block.tagged-persons",
         "block.persons",
         "block.articles",
-        "shared.fussball-de-widget"
+        "shared.fussball-de-widget",
+        "block.articles-preview-list"
       ]
     },
     "leftContents": {
@@ -57,7 +58,8 @@
         "block.persons",
         "block.tagged-persons",
         "block.articles",
-        "shared.fussball-de-widget"
+        "shared.fussball-de-widget",
+        "block.articles-preview-list"
       ]
     },
     "rightContents": {
@@ -68,7 +70,8 @@
         "block.persons",
         "block.tagged-persons",
         "block.articles",
-        "shared.fussball-de-widget"
+        "shared.fussball-de-widget",
+        "block.articles-preview-list"
       ]
     },
     "headerContents": {

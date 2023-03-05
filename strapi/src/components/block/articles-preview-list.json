@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_block_articles_preview_lists",
+  "info": {
+    "displayName": "ArticlesPreviewList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "pageSize": {
+      "type": "integer",
+      "required": true,
+      "default": 10
+    }
+  }
+}
