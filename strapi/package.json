@@ -16,6 +16,7 @@
     "@strapi/plugin-users-permissions": "^4.7.1",
     "@strapi/strapi": "^4.7.1",
     "better-sqlite3": "^8.1.0",
+    "mysql": "^2.18.1",
     "strapi-plugin-graphql-logging": "^0.1.6"
   },
   "author": {
