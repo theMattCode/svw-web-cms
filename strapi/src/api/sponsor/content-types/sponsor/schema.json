@@ -36,6 +36,9 @@
         "Silver",
         "Bronze"
       ]
+    },
+    "url": {
+      "type": "string"
     }
   }
 }
